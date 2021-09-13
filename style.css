@@ -1,0 +1,15 @@
+div.foods{
+    text-align: center;
+}
+div.recipies{
+    text-align: center;
+}
+ul.orderedfood{
+    list-style-type: none;
+}
+body{
+    background-color: aquamarine;
+}
+.links{
+    text-align: center;
+}
